@@ -1,3 +1,11 @@
+##submitted by
+AAKASH R
+ABIRAMI A
+BHAVANI G
+DEEPAK K
+NAVEEN MAHESH D
+College name : THENI KAMMAVAR SANGAM COLLEGE OF TECHNOLOGY##
+
 # Financial-Risk-Predction
 Financial Risk Prediction Project
 
@@ -111,8 +119,3 @@ Improve model interpretability using SHAP or LIME.
 
 Integrate additional external data sources for better predictions.
 
-
-
-Acknowledgments
-
-Special thanks to open-source communities and financial institutions for providing valuable datasets.
